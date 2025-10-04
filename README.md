@@ -3,12 +3,12 @@
 MeetPlot ingests Zoom `.vtt` transcripts and produces NLP, graph, and PDF analytics through a Streamlit interface. The pipeline extracts speaker-level metrics, computes sentiment and trigram statistics, derives interaction graphs, performs spaCy named-entity recognition, and assembles a multi-page PDF report with all visual artefacts.
 
 <figure>
-   <img src="assets/Screenshot 2025-10-04 141835.png" alt="MeetPlot overview" style="max-width:100%;" />
+   <img src="assets/Screenshot 2025-10-04 141850.png" alt="MeetPlot overview" style="max-width:100%;" />
    <figcaption><em>Figure 1.</em> MeetPlot overview — dashboard showing transcript upload, timeline, and key panels.</figcaption>
 </figure>
 
 <figure>
-   <img src="assets/Screenshot 2025-10-04 141850.png" alt="Sentiment panels and trend" style="max-width:100%;" />
+   <img src="assets/Screenshot 2025-10-04 141835.png" alt="Sentiment panels and trend" style="max-width:100%;" />
    <figcaption><em>Figure 2.</em> Sentiment panels and trend — per-speaker sentiment and timeline.</figcaption>
 </figure>
 

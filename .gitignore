@@ -1,0 +1,8 @@
+.venv/
+.meetplot_artifacts/
+.pytest_cache/
+.vscode/
+.streamlit/
+__pycache__/
+**/__pycache__/
+*.py[cod]
